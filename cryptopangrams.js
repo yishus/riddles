@@ -1,4 +1,4 @@
-// not for lasrge numbers
+// not for large numbers
 
 const fs = require("fs");
 
