@@ -15,7 +15,7 @@ Attachment:
 
 **rand2**
 
-I tried running `rand2` as an executable and getting this
+I tried running `rand2` as an executable and got this
 ```
 Failed to execute process './rand2'. Reason:
 exec: Exec format error
@@ -53,7 +53,7 @@ Arrived somewhere, but not where the flag is. Sorry, try again.
 
 With the correct pair of coordinates, the flag will be printed.
 
-__Printed__
+_Printed_
 
 Let's use `strings` to look into all the printable strings in the executable.
 
