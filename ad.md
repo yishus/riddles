@@ -4,7 +4,7 @@ Description: We interrupt this program for a commercial break
 
 [https://www.youtube.com/watch?v=QzFuwljOj8Y](https://www.youtube.com/watch?v=QzFuwljOj8Y)
 
-![Youtube screenshot](images/ad.png)
+![Youtube screenshot](images/youtube_flag.png)
 
 Lmao
 
