@@ -1,1 +1,3 @@
-# riddles
+# Riddles
+
+Code challenges over the years.
