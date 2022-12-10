@@ -1,8 +1,13 @@
 use std::fs;
 
-pub fn a() {
+fn main() {
+    a();
+    b();
+}
+
+fn a() {
     let contents =
-        fs::read_to_string("input/day_1.txt").expect("Something went wrong reading the file");
+        fs::read_to_string("../input/day_1.txt").expect("Something went wrong reading the file");
 
     let calories_per_elf: Vec<u32> = contents
         .trim()
@@ -14,9 +19,9 @@ pub fn a() {
     println!("{}", calories_per_elf.iter().max().unwrap());
 }
 
-pub fn b() {
+fn b() {
     let contents =
-        fs::read_to_string("input/day_1.txt").expect("Something went wrong reading the file");
+        fs::read_to_string("../input/day_1.txt").expect("Something went wrong reading the file");
 
     let mut calories_per_elf: Vec<u32> = contents
         .trim()
